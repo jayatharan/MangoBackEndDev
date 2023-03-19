@@ -14,3 +14,9 @@
 2023-03-18T07:56:05.814Z ERROR: Error while logging out user: BadRequestError: Failed to Book Property
 2023-03-18T07:56:38.067Z ERROR: Error while logging out user: ReferenceError: next is not defined
 2023-03-18T07:56:54.953Z ERROR: Error while logging out user: ReferenceError: res is not defined
+2023-03-19T17:14:42.643Z ERROR: Error while logging out user: BadRequestError: Failed to register user
+2023-03-19T17:21:37.722Z ERROR: Error while logging out user: BadRequestError: Failed to register user
+2023-03-19T17:21:38.057Z ERROR: Error while logging out user: BadRequestError: Failed to register user
+2023-03-19T17:24:11.709Z ERROR: Error while logging out user: BadRequestError: Failed to register user
+2023-03-19T18:36:13.266Z ERROR: Error while logging out user: BadRequestError: Failed to get property availability
+2023-03-19T18:36:52.632Z ERROR: Error while logging out user: BadRequestError: Failed to get property availability
